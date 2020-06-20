@@ -23,6 +23,11 @@
 * Google Keep
 * 미리 알림 (타자 입력 방식의 Siri와 연동)
 
+## 구독 서비스
+
+* Youtube Premium
+* NAVER Vibe
+
 ### 크롬
 
 * 1Password X
