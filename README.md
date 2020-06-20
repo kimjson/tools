@@ -35,7 +35,7 @@
 ## 하드웨어
 
 * iPhone 11 Pro 256GB (+ Apple Care)
-* Macbook Pro Retina 2015 Early 256GB
+* Macbook Pro Retina 2015 Early 13-inch 256GB
 * Airpod Pro
 * 두들 플러그
 * 넥스트 일체형 KVM 스위치 2대1 HDMI UHD 4K 케이블 일체형
