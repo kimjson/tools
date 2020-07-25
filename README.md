@@ -19,7 +19,6 @@
 * Karabiner
 * Sourcetree
 * Insomnia
-* Figma
 * Google Keep
 * 미리 알림 (타자 입력 방식의 Siri와 연동)
 
